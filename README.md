@@ -1,2 +1,2 @@
 # p5-pan-zoom
-Touch and mouse zoom and pan controls for 2D p5.js sketch.
+Zoom and pan controls for mouse, touchpad and touchscreen inputs in a 2D p5.js sketch.
